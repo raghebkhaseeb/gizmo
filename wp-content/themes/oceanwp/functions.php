@@ -18,8 +18,6 @@
  * @package OceanWP WordPress theme
  */
 
-#update_option( 'siteurl', 'http://gizmo.localhost');
-#update_option( 'home', 'http://gizmo.localhost');
 
 // Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) {
