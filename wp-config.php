@@ -18,8 +18,8 @@
  * @package WordPress
  */
 
-define('WP_HOME','http://ec2-18-191-211-232.us-east-2.compute.amazonaws.com');
-define('WP_SITEURL','http://ec2-18-191-211-232.us-east-2.compute.amazonaws.com');
+#define('WP_HOME','http://ec2-18-191-211-232.us-east-2.compute.amazonaws.com');
+#define('WP_SITEURL','http://ec2-18-191-211-232.us-east-2.compute.amazonaws.com');
 
 
 // ** MySQL settings - You can get this info from your web host ** //
