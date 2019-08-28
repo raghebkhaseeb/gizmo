@@ -18,8 +18,8 @@
  * @package WordPress
  */
 
-// define('WP_HOME','http://gizmo.localhost');
-// define('WP_SITEURL','http://gizmo.localhost');
+define('WP_HOME','http://gizmoprosusa.com/gizmo');
+define('WP_SITEURL','http://gizmoprosusa.com/gizmo');
 
 
 // ** MySQL settings - You can get this info from your web host ** //
